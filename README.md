@@ -1,0 +1,1 @@
+# trying_out_the_JAXA_Earth_API
