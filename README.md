@@ -8,4 +8,4 @@ This is a repository for trying out the [JAXA Earth API for Python](https://data
 
 ## Reference
 
-- [JAXA Earth API for Python及–びQGISを使用した地球観測衛星画像の利用](https://data.earth.jaxa.jp/api/python/_downloads/fc68fc08b82c9083016fca62808aedb2/How_to_Use_the_API_for_Python_with_QGIS_jp.pdf
+- [JAXA Earth API for Python及–びQGISを使用した地球観測衛星画像の利用](https://data.earth.jaxa.jp/api/python/_downloads/fc68fc08b82c9083016fca62808aedb2/How_to_Use_the_API_for_Python_with_QGIS_jp.pdf)
